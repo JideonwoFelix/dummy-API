@@ -1,0 +1,5 @@
+{
+    "products":[
+        {"id": 1, "product_name": "food1", "cost": 3000, "img": "dumm.jpg"}
+    ]
+}
